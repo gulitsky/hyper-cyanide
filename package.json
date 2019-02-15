@@ -1,0 +1,14 @@
+{
+  "name": "hyper-cyanide",
+  "version": "0.1.0",
+  "description": "A minimal dark theme for Hyper.",
+  "keywords": [
+    "hyper",
+    "hyper-theme"
+  ],
+  "homepage": "https://github.com/gulitsky/hyper-cyanide#readme",
+  "license": "MIT",
+  "author": "Andrey Gulitsky",
+  "main": "index.js",
+  "repository": "gulitsky/hyper-cyanide"
+}

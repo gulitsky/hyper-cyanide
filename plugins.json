@@ -1,0 +1,16 @@
+{
+  "name": "hyper-cyanide",
+  "description": "A minimal dark theme for Hyper.",
+  "type": "theme",
+  // A preview image of your plugin or theme. Can be a gif, png, jpeg, etc. Recommended dimensions
+  // are 600x400 pixels but it'd be perfect if you could make the density 2x for retina screens (1200x800)
+  // "preview": "https://hyper-plugin-screenshots.now.sh/hyper-cyanide.png",
+  "colors": [
+    "#0A0A0A",
+    "#252525",
+    "#444",
+    "#CCC",
+    "#64B2DB"
+  ],
+  "dateAdded": "1550207599220"
+}
